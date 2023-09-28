@@ -16,6 +16,7 @@ body {
 .main-content {
     display: grid;
     overflow: none;
+    background-color: aliceblue;
 }
 
 dialog {
