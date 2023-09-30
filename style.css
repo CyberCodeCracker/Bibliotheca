@@ -23,7 +23,7 @@ h1 {
 .main-content {
     display: flex;
     flex-direction: column;
-    background-image: url(img/library.webp); 
+    background-image: url(./images/library.webp); 
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center center;
